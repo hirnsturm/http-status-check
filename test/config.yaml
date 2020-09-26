@@ -1,0 +1,6 @@
+domain: https://www.google.de
+expectedHttpStatusCode: 200
+routes:
+  - /
+  - /imghp?hl=de&tab=wi&ogbl
+  - /foo
